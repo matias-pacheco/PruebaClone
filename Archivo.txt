@@ -1,0 +1,2 @@
+  Este archivo es una prueba para ver si se reflejan los cambios
+en GitHub Desktop, especifacmente en el repertotio PruebaCLone.
